@@ -33,6 +33,7 @@ export const Form = styled.form`
         font-size: 16px;
     }
 `;
+
 export const SubmitButton = styled.button.attrs({
     type: 'submit',
 })`
